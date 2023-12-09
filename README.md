@@ -29,7 +29,7 @@
 
 ![Alt text](./ngrok.png "Optional title")
 
-### MaskPhish para mascaras a URL
+### MaskPhish para mascarar a URL
 
 - Clonando o Repositório: ```git clone https://github.com/jaykali/maskphish.git```
 
